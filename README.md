@@ -34,7 +34,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED1A&random=false&width=435&lines=Hi%2C+KhaiCybers+founder+CyberTeam;React+%26+Bot+Discord;Botnet+Connddioss;I+am+a+React+Developer+From+Vietnam" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Duy Khải</h1>
+<h1 align="center">Hi 👋, We are CyberTeamCommunity</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadokine&label=Profile%20views&color=0e75b6&style=flat" alt="hadokine" /> </p>
 
